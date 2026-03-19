@@ -21,5 +21,3 @@ A modern and responsive movie search application built with React that allows us
 - Styling: CSS / Tailwind CSS  
 - API: TMDB / OMDB API  
 - State Management: React Hooks  
-
----
