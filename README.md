@@ -1,4 +1,4 @@
-# Movie Finder React App
+# MovieFinder React App
 
 A modern and responsive movie search application built with React that allows users to discover movies, explore details, and browse content more efficiently.
 
